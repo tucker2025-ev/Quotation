@@ -1,0 +1,2 @@
+# Redirect all 404 errors to homepage
+#ErrorDocument 404 http://quotation.tuckermotors.com/
